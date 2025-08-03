@@ -1,4 +1,4 @@
-```markdown
+
 # South Asia History Chatbot
 
 This chatbot uses Retrieval-Augmented Generation (RAG) to answer questions about South Asian history from a post-colonial perspective.
@@ -14,4 +14,5 @@ This chatbot uses Retrieval-Augmented Generation (RAG) to answer questions about
    python app.py
    ```
 4. Ask questions and learn interactively!
+
 ```
