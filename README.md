@@ -1,6 +1,8 @@
 
 # South Asia History Chatbot
 
+This AI-powered chatbot is a retrieval-augmented generation chatbot focused on South Asian history, designed to provide answers with a post-colonial perspective. It uses LangChain for orchestration, Chroma as a vector database for document retrieval, HuggingFace sentence-transformers for text embeddings, Ollama to run open-source LLMs locally
+
 This chatbot uses Retrieval-Augmented Generation (RAG) to answer questions about South Asian history from a post-colonial perspective.
 
 ## How to Use
@@ -16,3 +18,4 @@ This chatbot uses Retrieval-Augmented Generation (RAG) to answer questions about
 4. Ask questions and learn interactively!
 
 ```
+
